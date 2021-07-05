@@ -7,7 +7,6 @@ import java.util.Scanner;
 public class s0417 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 			
 		System.out.println("강낭콩을 쳐봐 >>");

@@ -1,9 +1,9 @@
 import java.util.HashMap;
-import java.util.*;
+
 public class Study0426 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
 		
 		HashMap<Integer, Integer> hm = new HashMap<>();
 		hm.put(1, hm.getOrDefault(1, 0) +1);					//hm 에 값넣기   .put(1,1이랑같으면동작X +1)
