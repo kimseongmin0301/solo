@@ -2,6 +2,8 @@ import java.util.Arrays;
 
 /**
  * Study0728
+ * 프로그래머스
+ * 체육복
  */
 public class Study0728 {
     static int n = 5;
